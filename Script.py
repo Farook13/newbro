@@ -168,7 +168,7 @@ Try reading the instruction below 👇🏼
     OLD_MES=""" Eᴅᴀᴀ Mᴏɴᴇʜ 𝐘𝐨𝐮 𝐚𝐫𝐞 𝐮𝐬𝐢𝐧𝐠 𝐨𝐧𝐞 𝐨𝐟 𝐦𝐲 𝐨𝐥𝐝 𝐦𝐞𝐬𝐬𝐚𝐠𝐞𝐬🤔, 𝐩𝐥𝐞𝐚𝐬𝐞 𝐬𝐞𝐧𝐝 𝐭𝐡𝐞 𝐫𝐞𝐪𝐮𝐞𝐬𝐭 𝐚𝐠𝐚𝐢𝐧"""
     
     MOV_NT_FND="""<b>Eᴅᴀᴀ Mᴏɴᴇʜ Tʜɪs Mᴏᴠɪᴇ Is Nᴏᴛ Yᴇᴛ Rᴇᴀʟᴇsᴇᴅ Oʀ Aᴅᴅᴇᴅ Tᴏ DB</b>
-<blockquote>Report To ADMIN - @im_goutham_josh</blockquote>
+<blockquote>Report To ADMIN - @Farook13</blockquote>
 """
     RESTART_TXT = """
 <b><u>𝖡𝗈𝗍 𝖱𝖾𝗌𝗍𝖺𝗋𝗍𝖾𝖽 ✅</u></b>"""
