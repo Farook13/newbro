@@ -115,7 +115,7 @@ Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
 """
-    RESULT_TXT="""<blockquote>Eᴅᴀᴀ Mᴏɴᴇʜ </blockquote>I Fᴏᴜɴᴅ Iɴ Mʏ Dʙ Fᴏʀ Yᴏᴜʀ Qᴜᴇʀʏ .Join our channel for latest movies on time <ahref=https://t.me/+fsvpVEQB8pRkMzk1>channel </a>{}"""
+    RESULT_TXT="""<blockquote>Eᴅᴀᴀ Mᴏɴᴇʜ </blockquote>I Fᴏᴜɴᴅ Iɴ Mʏ Dʙ Fᴏʀ Yᴏᴜʀ Qᴜᴇʀʏ .Join our channel for latest movies @https://t.me/+fsvpVEQB8pRkMzk1 .Below is the movie you asked {}"""
 
     CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 FɪʟᴇSɪᴢᴇ : {file_size}
