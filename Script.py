@@ -3,7 +3,7 @@ class script(object):
 𝖨𝗆 𝖺𝗇 𝖺𝗎𝗍𝗈 𝖿𝗂𝗅𝗍𝖾𝗋 𝖻𝗈𝗍 𝗐𝗁𝗂𝖼𝗁 𝖼𝖺𝗇 𝗉𝗋𝗈𝗏𝗂𝖽𝖾 𝗆𝗈𝗏𝗂𝖾𝗌 𝗂𝗇 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉𝗌.
 + 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 + 𝖺𝗇𝖽 𝗉𝗋𝗈𝗆𝗈𝗍𝖾 𝗆𝖾 𝖺𝗌 𝖺𝖽𝗆𝗂𝗇 𝗍𝗈 𝗅𝖾𝗍 𝗆𝖾 𝗀𝖾𝗍 𝗂𝗇 𝖺𝖼𝗍𝗂𝗈𝗇.
 
-<blockquote>©️ Maintained By @im_goutham_josh</blockquote>"""
+<blockquote>©️ Maintained By @Farook13</blockquote>"""
     HELP_TXT = """
     🙋🏻‍♂️   Hellooo  {} 🤓
 
@@ -21,17 +21,17 @@ class script(object):
 ○ Notice 📙:-
 ○ Dont Spam Me...🙂
 """
-    ABOUT_TXT = """<b><blockquote>◎ Nᴀᴍᴇ: ᴋᴜᴛᴛᴜ ʙᴏᴛ™</blockquote>
-◎ Cʀᴇᴀᴛᴏʀ: <a href=https://t.me/wudixh13>Goutham SER</a>
+    ABOUT_TXT = """<b><blockquote>◎ Nᴀᴍᴇ: BATMAN™</blockquote>
+◎ Cʀᴇᴀᴛᴏʀ: <a href=https://t.me/Farook13>FAROOK 👾</a>
 ◎ Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3
 ◎ Dᴀᴛᴀ Bᴀsᴇ: Mᴏɴɢᴏ DB
 ◎ Bᴏᴛ Sᴇʀᴠᴇʀ: KoYeb</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
--<blockquote> ᴋᴜᴛᴛᴜ ʙᴏᴛ™ is a open source project. </blockquote>
-- Source - <ahref=https://github.com/GouthamSER>Click Here😂</a>
+-<blockquote> NTHA MWONE ?. </blockquote>
+- Source - <ahref=https://github.com/Oomb>Click Here😂</a>
 
 <b>DEVS:</b>
--<blockquote> <a href=https://t.me/wudixh13/4>Gᴏᴜᴛʜᴀᴍ Josh ✅</a></blockquote>"""
+-<blockquote> <a href=https://t.me/Farook13>Farook ✅</a></blockquote>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
 <b>NOTE:</b>
@@ -54,7 +54,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/sources_cods)</code>
+<code>[Button Text](buttonurl:https://t.me/source_cods)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -115,7 +115,7 @@ Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
 """
-    RESULT_TXT="""<blockquote>Eᴅᴀᴀ Mᴏɴᴇʜ </blockquote>I Fᴏᴜɴᴅ Iɴ Mʏ Dʙ Fᴏʀ Yᴏᴜʀ Qᴜᴇʀʏ {}"""
+    RESULT_TXT="""<blockquote>Eᴅᴀᴀ Mᴏɴᴇʜ </blockquote>I Fᴏᴜɴᴅ Iɴ Mʏ Dʙ Fᴏʀ Yᴏᴜʀ Qᴜᴇʀʏ .Join our channel for latest movies on time <ahref=https://t.me/+fsvpVEQB8pRkMzk1>channel </a>{}"""
 
     CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 FɪʟᴇSɪᴢᴇ : {file_size}
@@ -125,8 +125,8 @@ Share this bot to your friends 💥🫀</b>"""
     
     RESTART_GC_TXT = """
 <b>𝖡𝗈𝗍 𝖱𝖾𝗌𝗍𝖺𝗋𝗍𝖾𝖽 !</b>
-Kuttu Bot
-**@im_goutham_josh**
+BATMAN HAS RISEN !
+**@Farook13**
 
 📅 𝖣𝖺𝗍𝖾 : <code>{}</code>
 ⏰ 𝖳𝗂𝗆𝖾 : <code>{}</code>
