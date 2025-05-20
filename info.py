@@ -41,8 +41,8 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "batman")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'files')
 
 # Others
-FORCE_SUB_1 = environ.get('FORCE_SUB_1', '')
-FORCE_SUB_2 = environ.get('FORCE_SUB_2', '')
+FORCE_SUB_1 = environ.get('FORCE_SUB_1', 'https://t.me/+G9rma5O6qmQxOTll')
+FORCE_SUB_2 = environ.get('FORCE_SUB_2', 'https://t.me/+nHE3X69W4i03NDJl')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002332361885'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'wudixh13')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', 'True')), False)
