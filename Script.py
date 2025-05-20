@@ -115,7 +115,7 @@ Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
 """
-    RESULT_TXT="""<blockquote>Eᴅᴀᴀ Mᴏɴᴇʜ </blockquote>I Fᴏᴜɴᴅ Iɴ Mʏ Dʙ Fᴏʀ Yᴏᴜʀ Qᴜᴇʀʏ .Below is the movie you asked {} ,forward the movie to your saved messages   Enjoy 😉👍"""
+    RESULT_TXT="""<blockquote>HELLO MATE ! </blockquote>I Fᴏᴜɴᴅ  Yᴏᴜʀ Qᴜᴇʀʏ  {}  Iɴ Mʏ Dʙ Fᴏʀ Yᴏᴜ ,Enjoy 😉👍"""
 
     CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 FɪʟᴇSɪᴢᴇ : {file_size}
